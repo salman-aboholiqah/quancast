@@ -25,7 +25,7 @@ This project is an Android application for managing and sending WhatsApp message
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [https://github.com/salman-aboholiqah/quancast.git](https://github.com/salman-aboholiqah/quancast.git)
     ```
 2.  Open the project in Android Studio.
 3.  Wait for Gradle to sync and download all dependencies.
